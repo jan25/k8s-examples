@@ -1,4 +1,4 @@
-module github.com/jan25/k8s-examples
+module github.com/jan25/k8s-examples/pod-counter
 
 go 1.16
 
